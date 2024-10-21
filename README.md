@@ -28,7 +28,7 @@ O projeto a seguir utiliza o `pyserial` para receber os valores do fotoresistor 
 
 <h3> 📝 Instruções para instalação</h3>
 
-> Considerando um ambiente Linux Ubuntu 20.04 LTS
+> Considerando um ambiente Linux Ubuntu 24.04 LTS
 
 1. **Instale o `pipx`**:
    ```bash
